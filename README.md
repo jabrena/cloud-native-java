@@ -1,7 +1,9 @@
-# cloud-native-java
+# Cloud Native Java
 Cloud Native Java
 
 ## Scope
+
+## The modern Java developer environment 
 
 ## Getting Started with Spring Boot
 
@@ -17,13 +19,23 @@ https://start.spring.io/
 
 #### Pyramid of Testing
 
-### Patterns
+### Microservice Patterns
 
 #### Gateway
 
 #### Discovery Services
 
 #### Event Sourcing
+
+#### Hexagonal architecture
+
+### Reactive Patterns
+
+#### Retry
+
+#### Load balancing
+
+#### Circuit Breaker
 
 ### Communications
 
@@ -42,3 +54,15 @@ https://start.spring.io/
 ## Your first Microservice with Java
 
 ## Your first Microservice with Kotlin
+
+## Designing REST API
+
+### Swagger
+
+## Validating HTTP Requests
+
+### Testing Objects
+
+## Service Orchestration
+
+### Parallel programming
